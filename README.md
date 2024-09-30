@@ -1,7 +1,7 @@
 # elektronikgosterge
 Elektronik Gösterge Sistemleri
 
-Ders vidyolarına https://youtube.com/playlist?list=PLWXn7zX9ptL3utU9yFcg0J7Cd6mOZQn89&si=-cFdVyoye7Nb02tn adresinden ulaşabilirsiniz.
+Ders vidyolarına [youtube kanalından](https://youtube.com/playlist?list=PLWXn7zX9ptL3utU9yFcg0J7Cd6mOZQn89&si=-cFdVyoye7Nb02tn) ulaşabilirsiniz.
 
 Dersin pdf belgeleri:
 
