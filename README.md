@@ -7,4 +7,4 @@ Dersin sunumlarına [adresinden](https://drive.google.com/file/d/1UHq3tjuwr9EQej
 
 Dersin kaynaklarına [adresinden](https://drive.google.com/file/d/1cs7lkpl1A1RTkvjTphe9IvEVGTJpyxmG/view?usp=sharing) ulaşabilirsiniz.
 
-Kaynakların şifreleri için derste iletişime geçebilirsiniz.
+Kaynakların şifreleri için Hoca ile iletişime geçebilirsiniz.
