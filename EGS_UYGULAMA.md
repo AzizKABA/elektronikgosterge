@@ -60,7 +60,7 @@ Aşağıdaki ana başlıklar içerisinden bir alt konu seçerek çalışmanızı
 - 📋 **Takım Bilgileri Formu:** [Buraya tıklayarak takım bilgilerinizi girin](https://docs.google.com/forms/d/e/1FAIpQLScdFvGVDpnG095D_VoXW6yw0FmzANFSApeuksuym0Fo_wqHYw/viewform?usp=sharing&ouid=100685102914478357540)
 - 📊 **Seçilmiş Konular Listesi:** [Daha önce seçilmiş konuları buradan kontrol edin](https://docs.google.com/spreadsheets/d/1ghti75AqndbmMi1JCJmtMENuboJK8rWE0zPEvuA0tGQ/edit?usp=sharing)
 - 📄 **Rapor Formatı:** [Rapor format şablonu](https://docs.google.com/document/d/1fPHiqpJMQfCzXna74teuHmHmmuZVmSJ_/edit?usp=sharing&ouid=100685102914478357540&rtpof=true&sd=true)
-
+- ** Sunum Şablonu:** [Sunum format şablonu](https://docs.google.com/presentation/d/1A-fLmq2tVGK9Nv0MxogdABC9klIC4N35/edit?usp=sharing&ouid=100685102914478357540&rtpof=true&sd=true)
 ---
 
 ## ✅ Yapılacaklar Listesi
