@@ -130,7 +130,7 @@ Ancak **kopyala-yapıştır kesinlikle yasaktır.**
 | **[12/04/2026]** | 23:59 | Takım bilgilerinin ve enstrüman seçiminin forma girilmesi (son tarih) |
 | **[30/04/2026]** | 23:59 | Ara teslim — GitHub repo linki + %30 ilerleme |
 | **[15/05/2026]** | 23:59 | Final teslimi — GitHub repo + AI raporu + sunum dosyası |
-| **[21/05/2026]** | [-] | Sunumlar (yüz yüze/online) |
+| **[18/05/2026]** | [-] | Sunumlar (yüz yüze/online) |
 
 ---
 
