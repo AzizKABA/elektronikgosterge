@@ -29,7 +29,7 @@ Aşağıdaki ana başlıklar içerisinden bir enstrüman seçerek çalışmanız
 
 ## 👥 Grup Bilgileri
 
-- Ödev **en fazla 5 kişilik** gruplar halinde yapılacaktır
+- Ödev **en az 3 en fazla 5 kişilik** gruplar halinde yapılacaktır
 - Grup üyelerini kendiniz belirleyeceksiniz
 - Grup üyeleri **aynı sınıftan** seçilmelidir
 - Her grup bir **lider** belirleyecektir
