@@ -40,6 +40,8 @@ Aşağıdaki ana başlıklar içerisinden bir enstrüman seçerek çalışmanız
 
 ### Platform Seçenekleri
 
+**Bunlarla sınırlı olmamak üzere**
+
 Uygulama aşağıdaki platformlardan herhangi birinde geliştirilebilir:
 
 - **Web tabanlı:** HTML5 + CSS + JavaScript, React, Vue, p5.js, Three.js, D3.js
