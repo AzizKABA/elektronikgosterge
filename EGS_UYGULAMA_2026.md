@@ -146,8 +146,8 @@ Ancak **kopyala-yapıştır kesinlikle yasaktır.**
 ## ✅ Yapılacaklar Listesi
 
 - [ ] Grup arkadaşlarınızı belirleyin (aynı sınıftan, **en az 3 en fazla 5 kişi** )
-- [ ] Ana başlıklardan bir enstrüman seçin
-- [ ] Seçilmiş enstrüman listesinden konunuzun müsait olduğunu kontrol edin
+- [ ] Ana başlıklardan bir gösterge seçin
+- [ ] Seçilmiş gösterge listesinden konunuzun müsait olduğunu kontrol edin
 - [ ] Takım bilgilerini belirtilen tarihe kadar forma girin
 - [ ] GitHub repository oluşturun ve ilk commit'i yapın
 - [ ] Araştırma ve tasarım aşamasını tamamlayın (wireframe/mockup)
