@@ -145,7 +145,7 @@ Ancak **kopyala-yapıştır kesinlikle yasaktır.**
 
 ## ✅ Yapılacaklar Listesi
 
-- [ ] Grup arkadaşlarınızı belirleyin (aynı sınıftan, **en az 3en fazla 5 kişi** )
+- [ ] Grup arkadaşlarınızı belirleyin (aynı sınıftan, **en az 3 en fazla 5 kişi** )
 - [ ] Ana başlıklardan bir enstrüman seçin
 - [ ] Seçilmiş enstrüman listesinden konunuzun müsait olduğunu kontrol edin
 - [ ] Takım bilgilerini belirtilen tarihe kadar forma girin
