@@ -88,7 +88,9 @@ Uygulamanın aşağıdaki özelliklerden **en az 5 tanesini** içermesi beklenme
 
 ## 🤖 AI ve Kaynak Kullanım Politikası
 
-AI araçları ve internet kaynakları bu projede **serbest** olarak kullanılabilir. Ancak **kopyala-yapıştır kesinlikle yasaktır.**
+AI araçları ve internet kaynakları bu projede **serbest** olarak kullanılabilir. 
+
+Ancak **kopyala-yapıştır kesinlikle yasaktır.**
 
 ### Serbest Olanlar
 - Kavramları anlamak için AI araçlarından açıklama almak
@@ -116,8 +118,8 @@ AI araçları ve internet kaynakları bu projede **serbest** olarak kullanılabi
 | Özellik zenginliği | 15 |
 | Dokümantasyon (README, AI raporu, kod yorumları) | 10 |
 | Sunum ve canlı demo | 10 |
-| GitHub süreç yönetimi (commit geçmişi, katkı dağılımı) | 5 |
-| **Toplam** | **100** |
+| GitHub süreç yönetimi (commit geçmişi, katkı dağılımı) | 10 |
+| **Toplam** | **105** |
 
 ---
 
