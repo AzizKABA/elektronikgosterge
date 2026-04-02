@@ -127,17 +127,17 @@ Ancak **kopyala-yapıştır kesinlikle yasaktır.**
 
 | Tarih | Saat | Etkinlik |
 |-------|------|----------|
-| **[ ]** | 23:59 | Takım bilgilerinin ve enstrüman seçiminin forma girilmesi (son tarih) |
-| **[ ]** | 23:59 | Ara teslim — GitHub repo linki + %30 ilerleme |
-| **[ ]** | 23:59 | Final teslimi — GitHub repo + AI raporu + sunum dosyası |
-| **[ ]** | [ ] | Sunumlar (yüz yüze) |
+| **[12/04/2026]** | 23:59 | Takım bilgilerinin ve enstrüman seçiminin forma girilmesi (son tarih) |
+| **[30/04/2026]** | 23:59 | Ara teslim — GitHub repo linki + %30 ilerleme |
+| **[15/05/2026]** | 23:59 | Final teslimi — GitHub repo + AI raporu + sunum dosyası |
+| **[21/05/2026]** | [-] | Sunumlar (yüz yüze/online) |
 
 ---
 
 ## 🔗 Önemli Linkler
 
 - 📋 **Takım Bilgileri Formu:** [Buraya tıklayarak takım bilgilerinizi girin]()
-- 📊 **Seçilmiş Enstrüman Listesi:** [Daha önce seçilmiş enstrümanları buradan kontrol edin]()
+- 📊 **Seçilmiş Enstrüman Listesi:** [Daha önce seçilmiş göstergeleri buradan kontrol edin]()
 - 📄 **Rapor Formatı:** [Rapor format şablonu]()
 - 📚 **Sunum Şablonu:** [Sunum format şablonu]()
 
