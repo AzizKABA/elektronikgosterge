@@ -23,7 +23,7 @@ Aşağıdaki ana başlıklar içerisinden bir enstrüman seçerek çalışmanız
 - **Dijital ekran:** Navigation Display (ND) — rota, waypoint ve hava durumu gösterimi
 - **Sistem ekranı:** ECAM Upper Display — motor parametreleri ve uyarı mesajları
 
-> ⚠️ **Önemli:** Herkesin konusunun (enstrümanının) birbirinden farklı olması gerekmektedir.
+> ⚠️ **Önemli:** Herkesin konusunun (göstergesinin) birbirinden farklı olması gerekmektedir.
 
 ---
 
