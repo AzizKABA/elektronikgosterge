@@ -127,7 +127,7 @@ Ancak **kopyala-yapıştır kesinlikle yasaktır.**
 
 | Tarih | Saat | Etkinlik |
 |-------|------|----------|
-| **[12/04/2026]** | 23:59 | Takım bilgilerinin ve enstrüman seçiminin forma girilmesi (son tarih) |
+| **[12/04/2026]** | 23:59 | Takım bilgilerinin + gösterge seçiminin forma girilmesi ve ön testin doldurulması (son tarih) |
 | **[30/04/2026]** | 23:59 | Ara teslim — GitHub repo linki + %30 ilerleme |
 | **[15/05/2026]** | 23:59 | Final teslimi — GitHub repo + AI raporu + sunum dosyası |
 | **[18/05/2026]** | [-] | Sunumlar (yüz yüze/online) |
@@ -140,11 +140,13 @@ Ancak **kopyala-yapıştır kesinlikle yasaktır.**
 - 📊 **Seçilmiş Gösterge Listesi:** [Daha önce seçilmiş göstergeleri buradan kontrol edin](https://docs.google.com/spreadsheets/d/1_9QbQZIVZIVG_aRk9v9k5HTb0gH1-mSnZ9dRvrBqID0/edit?usp=sharing)
 - 📄 **Rapor Formatı:** [Rapor format şablonu](https://docs.google.com/document/d/1fPHiqpJMQfCzXna74teuHmHmmuZVmSJ_/edit)
 - 📚 **Sunum Şablonu:** [Sunum format şablonu](https://docs.google.com/presentation/d/1A-fLmq2tVGK9Nv0MxogdABC9klIC4N35/edit?slide=id.p1#slide=id.p1)
+- 📈 **PROJE ANKET FORMU:** [Buraya tıklayarak takım bilgilerinizi girin](https://forms.gle/yzfJzKN6sD7egjDT9)
 
 ---
 
 ## ✅ Yapılacaklar Listesi
 
+- [ ] Bireysel olarak proje anket formunu doldurun.
 - [ ] Grup arkadaşlarınızı belirleyin (aynı sınıftan, **en az 3 en fazla 5 kişi** )
 - [ ] Ana başlıklardan bir gösterge seçin
 - [ ] Seçilmiş gösterge listesinden konunuzun müsait olduğunu kontrol edin
