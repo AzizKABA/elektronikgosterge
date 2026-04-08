@@ -140,7 +140,7 @@ Ancak **kopyala-yapıştır kesinlikle yasaktır.**
 - 📊 **Seçilmiş Gösterge Listesi:** [Daha önce seçilmiş göstergeleri buradan kontrol edin](https://docs.google.com/spreadsheets/d/1_9QbQZIVZIVG_aRk9v9k5HTb0gH1-mSnZ9dRvrBqID0/edit?usp=sharing)
 - 📄 **Rapor Formatı:** [Rapor format şablonu](https://docs.google.com/document/d/1fPHiqpJMQfCzXna74teuHmHmmuZVmSJ_/edit)
 - 📚 **Sunum Şablonu:** [Sunum format şablonu](https://docs.google.com/presentation/d/1A-fLmq2tVGK9Nv0MxogdABC9klIC4N35/edit?slide=id.p1#slide=id.p1)
-- 📈 **PROJE ANKET FORMU:** [Buraya tıklayarak ön test formunu](https://forms.gle/yzfJzKN6sD7egjDT9)
+- 📈 **PROJE ANKET FORMU:** [Buraya tıklayarak ön test formunu doldurun](https://forms.gle/yzfJzKN6sD7egjDT9)
 
 ---
 
