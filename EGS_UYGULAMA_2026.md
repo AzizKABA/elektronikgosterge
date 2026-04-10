@@ -3,7 +3,7 @@
 
 ## Havacılık Kokpit Göstergeleri Simülatörü Geliştirme
 
-Bu ödev kapsamında havacılıkta kullanılan analog veya dijital kokpit enstrümanlarından birini simüle eden bir uygulama geliştireceksiniz.
+Bu ödev kapsamında havacılıkta kullanılan analog veya dijital kokpit göstergelerinden birini simüle eden bir uygulama geliştireceksiniz.
 
 ---
 
